@@ -69,4 +69,10 @@
     color: rgba(245, 245, 245, 0.603);
     font-family: calibri;
     font-size: 0.9rem;
+    cursor:pointer;
 }
+
+.button:hover {
+    background-color:black;
+}
+
